@@ -69,7 +69,6 @@ local.properties
 *.class
 log4j.xml
 mybatis-config.xml
-*Mapper.xml
 
 # Log file
 *.log
